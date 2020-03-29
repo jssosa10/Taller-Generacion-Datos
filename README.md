@@ -34,4 +34,4 @@ Este taller consta de dos partes. Cada parte relacionada a una herramienta sujet
 ### Entregables:
 
    * [Evidencia punto 1 implementación taller Podam](https://github.com/jssosa10/Taller-Generacion-Datos/tree/master/Podam)
-   * [[Evidencia punto 2 implementación taller Podam]]
+   * [Evidencia punto 2 implementación taller Podam](https://github.com/jssosa10/Taller-Generacion-Datos/wiki/Evidencia-punto-2-implementación-taller-Podam)
