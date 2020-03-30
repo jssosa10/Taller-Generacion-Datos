@@ -15,5 +15,12 @@ public class Podam {
         Car car = factory.manufacturePojo(Car.class);
         return car;
     }
+    public Car generateCustom(){
+        CustomStringManufacturer customStringManufacturer = new CustomStringManufacturer();
+        PodamFactory factory = new PodamFactoryImpl();
+        factory.getStrategy().addOrReplaceTypeManufacturer(String.class, customStringManufacturer);
+        Car car = factory.manufacturePojo(Car.class);
+        return car;
+    }
 
 }
