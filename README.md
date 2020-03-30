@@ -22,7 +22,9 @@ Este taller consta de dos partes. Cada parte relacionada a una herramienta sujet
 
 ### Entregables:
 
-   * [Evidencia implementación taller Mockaroo](https://angela-anaya-castaneda.gitbook.io/mockaroo/)
+<img src="https://github.com/jssosa10/Taller-Generacion-Datos/blob/master/common/images/MOCKAROO.png?raw=true">
+
+   * [Evidencia implementación taller Mockaroo](https://github.com/jssosa10/Taller-Generacion-Datos/tree/master/mockaroo)
 
 
 
