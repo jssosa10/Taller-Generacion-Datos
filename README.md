@@ -18,8 +18,7 @@ Este taller consta de dos partes. Cada parte relacionada a una herramienta sujet
 
 ## PARTE I : Herramienta Mockaroo
 
-* Introducción a Mockaroo
-* Definición taller Mockaroo
+* [Introducción y definición taller Mockaroo](https://angela-anaya-castaneda.gitbook.io/mockaroo/)
 
 ### Entregables:
 
@@ -28,8 +27,7 @@ Este taller consta de dos partes. Cada parte relacionada a una herramienta sujet
 
 ## PARTE II : Herramienta Podam
 
-* [Introducción a Podam](https://ramiro-vargassalas.gitbook.io/pruebas-automaticas/taller-podam)
-* [Definición taller Podam](https://ramiro-vargassalas.gitbook.io/pruebas-automaticas/taller-podam)
+* [Introducción y definición taller Podam](https://ramiro-vargassalas.gitbook.io/pruebas-automaticas/taller-podam)
 
 ### Entregables:
 
