@@ -25,12 +25,14 @@ Este taller consta de dos partes. Cada parte relacionada a una herramienta sujet
    * [Evidencia implementación taller Mockaroo](https://angela-anaya-castaneda.gitbook.io/mockaroo/)
 
 
+
 ## PARTE II : Herramienta Podam
 
 * [Introducción y definición taller Podam](https://ramiro-vargassalas.gitbook.io/pruebas-automaticas/taller-podam)
 
 ### Entregables:
 
+<img src="https://github.com/jssosa10/Taller-Generacion-Datos/blob/master/common/images/PODAM.gif?raw=true">
+
    * [Evidencia punto 1 implementación taller Podam](https://github.com/jssosa10/Taller-Generacion-Datos/tree/master/Podam)
    * [Evidencia punto 2 implementación taller Podam](https://github.com/jssosa10/Taller-Generacion-Datos/wiki/Evidencia-punto-2-implementación-taller-Podam)
-
